@@ -1,4 +1,4 @@
-# selection-bias-graphical-rules-R
+# On the Graphical Rules for Recovering the Average Treatment Effect Under Selection Bias
 ## Yichi Zhang, Haidong Lu
 
 R simulation code for addressing selection bias and recovering ATE under graphical rules
@@ -20,3 +20,6 @@ Zhang Y & Lu H. *On the Graphical Rules for Recovering the Average Treatment Eff
 ```r
 source("simulation_selectionbias_v3_case1.R")
 source("simulation_selectionbias_v3_case2.R")
+
+### R
+- R version: 4.5.2
