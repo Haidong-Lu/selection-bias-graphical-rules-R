@@ -20,7 +20,7 @@ Zhang Y, Lu H. *On the Graphical Rules for Recovering the Average Treatment Effe
 ```r
 source("simulation_selectionbias_v3_case1.R")
 source("simulation_selectionbias_v3_case2.R")
-
+```
 ## System details
 
 All simulations were conducted using R version 4.5.2.
