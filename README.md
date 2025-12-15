@@ -1,5 +1,5 @@
 # selection-bias-graphical-rules-R
-Yichi Zhang, Haidong Lu
+## Yichi Zhang, Haidong Lu
 
 R simulation code for addressing selection bias and recovering ATE under graphical rules
 
