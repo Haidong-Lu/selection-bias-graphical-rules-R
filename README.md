@@ -13,7 +13,7 @@ Zhang Y & Lu H. *On the Graphical Rules for Recovering the Average Treatment Eff
   Simulation for Case 1 regarding selection bias in a randomized trial of a prophylactic medication for malaria among susceptible individuals
 
 - simulation_selectionbias_v3_case2.R  
-  Simulation for Case 2 regarding selection bias in a randomized trial of some vaccine for an infectious disease that assigns half of the individuals to the treatment groug
+  Simulation for Case 2 regarding selection bias in a randomized trial of some vaccine for an infectious disease that assigns half of the individuals to the treatment group
 
 ## How to run
 
